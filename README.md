@@ -1,2 +1,2 @@
-# -receitasCafe
+# -Receitas Cafe
 PÁGINAS HTML+CSS INDIVIDUAL
